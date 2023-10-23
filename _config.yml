@@ -57,14 +57,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hungjui Yu, Ph.D."
+  name   : "Hungjui Yu"
   avatar : "/assets/images/bio-photo-2023-01.jpg"
-  bio    : "Hungjui Yu, Ph.D. in Atmospheric Sciences."
+  bio    : "Ph.D. in Atmospheric Sciences. Meteorologist/Scientist/Coder."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yuhungjui"
-    - label: "Google Website (till 2022)"
+    - label: "Google Website (– 2022)"
       icon: "fas fa-fw fa-link"
       url: "https://sites.google.com/view/yuhungjui/home"
     - label: "Twitter"
