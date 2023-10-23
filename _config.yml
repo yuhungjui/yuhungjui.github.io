@@ -58,33 +58,33 @@ plugins:
 
 author:
   name   : "Hungjui Yu, Ph.D."
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/bio-photo-2023-01.jpg"
+  bio    : "Hungjui Yu, Ph.D. in Atmospheric Sciences."
   links:
-    - label: "Website"
+    - label: "Google Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://sites.google.com/view/yuhungjui/home"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/Yuhungjui"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/yuhungjui"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/yuhungjui"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/Yuhungjui"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/yuhungjui"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/yuhungjui"
 
 defaults:
   # _posts
