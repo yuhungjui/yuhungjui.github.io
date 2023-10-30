@@ -23,6 +23,7 @@ github_username: yuhungjui
 minimal_mistakes_skin: "mint"
 search: true
 logo: "/assets/images/YULOGO_1.png"
+og_image: /assets/images/YULOGO_1.png
 
 # Build settings
 markdown: kramdown
