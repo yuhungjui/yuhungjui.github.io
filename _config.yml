@@ -56,7 +56,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-logo: "/assets/images/YULOGO_1.png"
+logo: "/assets/images/YULOGO_2.png"
 
 author:
   name   : "Hungjui Yu"
