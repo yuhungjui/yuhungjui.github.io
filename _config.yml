@@ -14,27 +14,55 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hungjui YU
+locale                   : "en-US"
+title                    : "Hungjui Yu"
+title_separator          : "|"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Hungjui Yu's personal academic website hosted on github.
-twitter_username: yuhungjui
-github_username: yuhungjui
-minimal_mistakes_skin  : "mint"
+description              : "Hungjui Yu's personal academic website hosted on github."
+repository               : "yuhungjui/yuhungjui.github.io"
+twitter_username         : yuhungjui
+github_username          : yuhungjui
+
+minimal_mistakes_skin    : "mint"
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-search: true
-logo: "/assets/images/YULOGO_1.png"
-og_image: /assets/images/YULOGO_1.png
+
+search                   : true
+logo                     : "/assets/images/YULOGO_1.png"
+og_image                 : /assets/images/YULOGO_1.png
 
 # Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+markdown                 : kramdown
+remote_theme             : mmistakes/minimal-mistakes
 
+# Outputting
+# permalink                : /:categories/:title/
+# paginate                 : 10 # amount of posts to show
+# paginate_path            : /page:num/
+# timezone:                # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Site Author
+author:
+  name             : "Hungjui Yu"
+  avatar           : "/assets/images/bio-photo-2023-01.jpg"
+  bio              : "Ph.D. in Atmospheric Sciences. Meteorologist/Scientist/Coder."
+  orcid            : "https://orcid.org/0000-0002-3796-0967"
+  googlescholar    : "https://scholar.google.com/citations?user=DHXgZyMAAAAJ"
+  email            : " "
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yuhungjui"
+    - label: "Google Website (– 2022)"
+      icon: "fas fa-fw fa-link"
+      url: "https://sites.google.com/view/yuhungjui/home"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Yuhungjui"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/yuhungjui"
+
+# Reading Files
 include:
   - _pages
 
@@ -59,24 +87,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Hungjui Yu"
-  avatar : "/assets/images/bio-photo-2023-01.jpg"
-  bio    : "Ph.D. in Atmospheric Sciences. Meteorologist/Scientist/Coder."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yuhungjui"
-    - label: "Google Website (– 2022)"
-      icon: "fas fa-fw fa-link"
-      url: "https://sites.google.com/view/yuhungjui/home"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Yuhungjui"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yuhungjui"
-
 footer:
   links:
     - label: "GitHub"
@@ -85,9 +95,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Yuhungjui"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yuhungjui"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/yuhungjui"
 
 defaults:
   # _posts
