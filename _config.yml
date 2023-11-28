@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Hungjui Yu"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Hungjui Yu"
 description              : &description "Hungjui Yu's personal academic website hosted on github."
 url                      : https://yuhungjui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -63,12 +63,13 @@ facebook:
   app_id                 :
   publisher              :
 
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "mint"
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 search                   : true
-logo                     : "YULOGO_1.png"
-og_image                 : "YULOGO_1.png"
+logo                     : "/images/YULOGO_1.png"
+og_image                 : "/images/YULOGO_1.png"
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -116,7 +117,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yuhungjui"
+  twitter          : # "yuhungjui"
   vine             :
   weibo            :
   xing             :
