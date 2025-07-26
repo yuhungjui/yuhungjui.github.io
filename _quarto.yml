@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Hungjui Yu"
+  title: "Hungjui YU"
   navbar:
     left:
       - href: index.qmd
