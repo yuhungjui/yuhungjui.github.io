@@ -1,16 +1,15 @@
 ---
 title: "Welcome"
 format: html
-about:
-  template: trestles
-  image: assets/images/profile.png
-  links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
+template: trestles
+image: assets/images/profile.png
+links:
+- icon: twitter
+    text: twitter
+    href: https://twitter.com
+- icon: github
+    text: Github
+    href: https://github.com
 ---
 
 # 👋 Welcome

@@ -22,6 +22,6 @@ website:
 
 format:
   html:
-    theme: trestles
+    theme: cosmo
     css: styles.css
     toc: true
