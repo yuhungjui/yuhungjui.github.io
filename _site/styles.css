@@ -1,1 +1,10 @@
 /* css styles */
+
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+h1, h2 {
+  font-weight: 600;
+  color: #222;
+}
