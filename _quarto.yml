@@ -23,5 +23,5 @@ website:
 format:
   html:
     theme: trestles
-    # css: styles.css
+    css: styles.css
     toc: true
