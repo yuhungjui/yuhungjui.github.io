@@ -1,0 +1,13 @@
+---
+title: "Publications"
+format: html
+---
+
+### Peer-Reviewed
+
+1. **Yu, H.J.**, et al. (2024). *Deep Learning for Convective Mode Forecasting*. _J. Atmos. Sci._
+2. [...]
+
+### Conference Presentations
+
+- AMS Annual Meeting (2023): Talk on [...]

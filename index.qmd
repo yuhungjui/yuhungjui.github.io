@@ -1,8 +1,14 @@
 ---
-title: "yuhungjui.github.io"
+title: "Welcome"
 format: html
 ---
 
-This is a Quarto website using the **Trestles** theme!
+# 👋 Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm Hungjui Yu, a researcher in Atmospheric Science.
+
+- 🔬 Research in: Convective storms, machine learning, atmospheric science
+- 📍 Based in Fort Collins, CO
+- 🧠 Passionate about data, code, and clean communication.
+
+See [About](about.qmd) for more.

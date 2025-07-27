@@ -1,5 +1,15 @@
 ---
-title: "About"
+title: "About Me"
+format: html
 ---
 
-About this site
+I am currently a researcher at Colorado State University.  
+My research focuses on [...]
+
+My background includes:
+
+- Ph.D. in Atmospheric Science, ABC University
+- M.S. in [...]
+- B.S. in [...]
+
+Feel free to [contact me](mailto:your_email@example.com).
