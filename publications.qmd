@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-# format: html
+format: html
 ---
 
 ### Peer-Reviewed

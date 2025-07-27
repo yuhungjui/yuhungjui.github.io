@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-# format: html
+format: html
 ---
 
 ### DCFLOS Toolbox
