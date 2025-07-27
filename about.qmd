@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-format: html
+# format: html
 ---
 
 I am currently a researcher at Colorado State University.  
