@@ -1,6 +1,6 @@
 ---
 title: "CV"
-format: html
+# format: html
 ---
 
 [Click here to download my CV (PDF)](assets/cv_hungjuiyu.pdf)
