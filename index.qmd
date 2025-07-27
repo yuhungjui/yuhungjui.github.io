@@ -21,4 +21,4 @@ I'm Hungjui Yu, a researcher in Atmospheric Science.
 - 📍 Based in Fort Collins, CO
 - 🧠 Passionate about data, code, and clean communication.
 
-See [About](about.qmd) for more.
+<!-- See [About](about.qmd) for more. -->
