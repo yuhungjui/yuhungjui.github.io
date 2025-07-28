@@ -16,7 +16,7 @@ website:
         href: cv.qmd
   page-footer:
     center: |
-      © {{< year >}} Hungjui Yu · Powered by [Quarto](https://quarto.org)
+      © 2025 Hungjui Yu · Powered by Quarto
 
 format:
   html:
