@@ -19,8 +19,7 @@ website:
     search: true
 
   page-footer:
-    center: |
-      © 2025 Hungjui Yu · Powered by Quarto
+    center: © 2025 Hungjui Yu · Powered by Quarto
 
 format:
   html:
