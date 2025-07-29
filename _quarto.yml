@@ -2,24 +2,28 @@ project:
   type: website
 
 website:
-  title: "Hungjui Yu"
+  title: "Hungjui"
   site-url: "https://yuhungjui.github.io"
+  
   navbar:
+    logo: images/logo_1.png
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Projects"
-        href: projects.qmd
+      - text: "Research"
+        href: research.qmd
       - text: "Publications"
         href: publications.qmd
       - text: "CV"
         href: cv.qmd
+    search: true
+
   page-footer:
     center: |
       © 2025 Hungjui Yu · Powered by Quarto
 
 format:
   html:
-    theme: trestles
+    theme: sandstone
     css: styles.css
     toc: true

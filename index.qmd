@@ -3,7 +3,7 @@ title: "Welcome"
 format: html
 about:
   template: trestles
-  image: assets/images/profile.png
+  image: images/profile.png
   links:
     - icon: twitter
       text: twitter

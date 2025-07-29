@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "👋 Welcome\nI’m Hungjui Yu, a researcher in Atmospheric Science.\n\n🔬 Research in: Convective storms, machine learning, atmospheric science\n📍 Based in Fort Collins, CO\n🧠 Passionate about data, code, and clean communication.\n\nSee About for more."
+    "text": "👋 Welcome\nI’m Hungjui Yu, a researcher in Atmospheric Science.\n\n🔬 Research in: Convective storms, machine learning, atmospheric science\n📍 Based in Fort Collins, CO\n🧠 Passionate about data, code, and clean communication."
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,12 @@
     "title": "About Me",
     "section": "",
     "text": "I am currently a researcher at Colorado State University.\nMy research focuses on […]\nMy background includes:\n\nPh.D. in Atmospheric Science, ABC University\nM.S. in […]\nB.S. in […]\n\nFeel free to contact me."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "DCFLOS Toolbox\nA Python package for analyzing storm-mode classification.\n\nGitHub: DCFLOS_toolbox\nFeatures: Lightning parsing, 3D visualization, ML workflows\n\n\n\nOther Projects\n\nYour other project title – Short description."
   }
 ]
