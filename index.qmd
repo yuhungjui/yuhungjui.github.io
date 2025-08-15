@@ -1,21 +1,58 @@
 ---
 title: "Hungjui Yu"
-format: html
+format:
+  html:
+    toc: false
 about:
   template: trestles
   image: images/profile.png
   links:
     - icon: github
-      text: Github
-      href: https://github.com
+      text: GitHub
+      href: https://github.com/yuhungjui
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-3796-0967
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ
+    - icon: globe
+      text: Web of Science
+      href: https://www.webofscience.com/wos/author/record/HNR-9952-2023
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/yuhungjui
 ---
 
-# 👋 Welcome
+I am ***Hungjui Yu*** **(尤虹叡)** – a researcher in Atmospheric Science based in Fort Collins, Colorado.
 
-I'm Hungjui Yu, a researcher in Atmospheric Science.
+---
 
-- 🔬 Research in: Convective storms, machine learning, atmospheric science
+## Research 
+
+- **Cloud & Storm Structure** – Unraveling the 3D organization of clouds and storms.  
+- **Mesoscale Processes** – Studying the environmental drivers of convective weather.  
+- **Weather–Climate Interface** – Linking short-term weather patterns to longer-term changing climate.  
+
+<!-- I study the 3D structure of clouds and storms, blending atmospheric science and machine learning to reveal patterns that shape weather and climate, and to create tools that make aviation safer for professionals and the public alike. -->
+
+## Tools
+
+- **Data Analysis** – Combining remote-sensing observations and numerical models.
+- **Machine Learning** – Extracting patterns and mechanisms within clouds and their environments.  
+- **Aviation** – Cloud-Free Line-of-Sight (CFLOS) and lightning estimation.  
+
+<!-- My work explores the 3-dimensional structure of clouds and storms, the mesoscale convective and environmental processes that shape them, and their role at the weather–climate interface.
+
+I integrate environmental data analysis from remote-sensing observations and numerical models with machine learning techniques to uncover patterns and mechanisms within clouds and their environments. I also develop aviation-focused tools to better address and understand storm-related risks. -->
+
+---
+
+I combine **remote-sensing observations**, **numerical modeling**, and **machine learning** to uncover the physical and statistical patterns that shape storms under changing environments. 
+
+My research enhances both **scientific understanding** and **operational safety**. By combining rigorous science with scalable software tools, I translate complex atmospheric insights into practical solutions that enhance safety, resilience, and decision-making for both the public and professional communities in a changing atmosphere.
+
+***"The first step in solving any problem is recognizing there is one."***
+
+<!-- - 🔬 Research in: Clouds and Convective storms, Remote Sensing, Machine Learning
 - 📍 Based in Fort Collins, CO
-- 🧠 Passionate about data, code, and clean communication.
-
-<!-- See [About](about.qmd) for more. -->
+- 🧠 Passionate about data, code, and clean communication. -->
