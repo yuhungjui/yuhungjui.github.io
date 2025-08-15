@@ -4,6 +4,7 @@ project:
 website:
   title: "Hungjui Yu"
   site-url: "https://yuhungjui.github.io"
+  favicon: images/logo_1.png 
   
   navbar:
     logo: images/logo_1.png
