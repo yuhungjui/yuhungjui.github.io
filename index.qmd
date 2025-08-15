@@ -47,7 +47,7 @@ I integrate environmental data analysis from remote-sensing observations and num
 
 ---
 
-I combine **remote-sensing observations**, **numerical modeling**, and **machine learning** to uncover the physical and statistical patterns that shape storms under changing environments. 
+I combine **remote-sensing observations**, **numerical modeling**, and **machine learning** to uncover the components that shape storms under changing environments. 
 
 My research enhances both **scientific understanding** and **operational safety**. By combining rigorous science with scalable software tools, I translate complex atmospheric insights into practical solutions that enhance safety, resilience, and decision-making for both the public and professional communities in a changing atmosphere.
 
