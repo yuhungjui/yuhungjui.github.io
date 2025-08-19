@@ -1,1 +1,11 @@
 /.quarto/
+
+.Rproj.user
+.DS_Store
+.Rhistory
+/.quarto/
+/_site/
+/env/
+/.venv/
+/.condaenv/
+*_cache/
