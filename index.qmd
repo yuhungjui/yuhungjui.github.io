@@ -5,7 +5,7 @@ format:
     toc: false
 about:
   template: trestles
-  image: images/profile.png
+  image: images/profile.jpg
   links:
     - icon: github
       text: GitHub
