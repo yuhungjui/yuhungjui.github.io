@@ -9,3 +9,18 @@
 /.venv/
 /.condaenv/
 *_cache/
+
+# Microsoft Word temporary files
+~$*
+*.tmp
+*.swp
+*.bak
+
+# PowerPoint temporary files
+~$*
+*.pptx~
+*.ppt~
+
+# PDF viewers (like Adobe) temp files
+*.pdf~
+*.acsm
