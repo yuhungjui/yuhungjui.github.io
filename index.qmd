@@ -27,23 +27,22 @@ about:
 
 :::{#hero-heading}
 
-I am ***Hungjui Yu*** **(尤虹叡)** – a researcher in Atmospheric Science based in Fort Collins, Colorado.
-
----
+I am **Hungjui Yu (尤虹叡)** – a Atmospheric Scientist based in Fort Collins, Colorado.
 
 ## Research 
 
-- **Cloud & Storm Structure** – Unraveling the 3D organization of clouds and storms.  
-- **Mesoscale Processes** – Studying the environmental drivers of convective weather.  
-- **Weather–Climate Interface** – Linking short-term weather patterns to longer-term changing climate.  
+- **Cloud & Storm Structure** – Unraveling the 3D features of clouds and storms.  
+- **Mesoscale Convective Processes** – Understanding the environmental controls on clouds and storms.  
+- **Weather–Climate Interface** – Connecting short-term extremes with long-term climate trends.
+- **Aviation** – Building tools for cloud-related aviation applications.
 
 <!-- I study the 3D structure of clouds and storms, blending atmospheric science and machine learning to reveal patterns that shape weather and climate, and to create tools that make aviation safer for professionals and the public alike. -->
 
 ## Tools
 
-- **Data Analysis** – Combining remote-sensing observations and numerical models.
-- **Machine Learning** – Extracting patterns and mechanisms within clouds and their environments.  
-- **Aviation** – Cloud-Free Line-of-Sight (CFLOS) and lightning estimation.  
+- **Data Integration and Analysis** – Combining remote-sensing observations and numerical models.
+- **Machine Learning** – Extracting patterns and mechanisms within clouds and the environments.
+- **Software Development** – Creating scalable, open-source packages for research and applications.
 
 <!-- My work explores the 3-dimensional structure of clouds and storms, the mesoscale convective and environmental processes that shape them, and their role at the weather–climate interface.
 
@@ -53,11 +52,11 @@ I integrate environmental data analysis from remote-sensing observations and num
 
 ---
 
-I combine **remote-sensing observations**, **numerical modeling**, and **machine learning** to uncover the components that shape storms under changing environments. 
-
-My research enhances both **scientific understanding** and **operational safety**. By combining rigorous science with scalable software tools, I translate complex atmospheric insights into practical solutions that enhance safety, resilience, and decision-making for both the public and professional communities in a changing atmosphere.
-
 ***"The first step in solving any problem is recognizing there is one."***
+
+I integrate **remote-sensing observations**, **numerical modeling**, and **machine learning** to reveal the processes that shape storms in a changing environment.
+
+My work advances **scientific understanding** while improving **operational safety**. Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making for both professionals and the public in a changing atmosphere.
 
 <!-- - 🔬 Research in: Clouds and Convective storms, Remote Sensing, Machine Learning
 - 📍 Based in Fort Collins, CO

@@ -2,16 +2,16 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "Hungjui Yu",
     "section": "",
-    "text": "Click here to download my CV (PDF)"
+    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"doc/CV.pdf\"&gt;Download CV&lt;/a&gt;."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hungjui Yu",
     "section": "",
-    "text": "GitHub\n  \n  \n      Google Scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     Web of Science\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI am Hungjui Yu (尤虹叡) – a researcher in Atmospheric Science based in Fort Collins, Colorado.\n\n\n\n\nCloud & Storm Structure – Unraveling the 3D organization of clouds and storms.\n\nMesoscale Processes – Studying the environmental drivers of convective weather.\n\nWeather–Climate Interface – Linking short-term weather patterns to longer-term changing climate.\n\n\n\n\n\n\nData Analysis – Combining remote-sensing observations and numerical models.\nMachine Learning – Extracting patterns and mechanisms within clouds and their environments.\n\nAviation – Cloud-Free Line-of-Sight (CFLOS) and lightning estimation.\nI combine remote-sensing observations, numerical modeling, and machine learning to uncover the components that shape storms under changing environments.\nMy research enhances both scientific understanding and operational safety. By combining rigorous science with scalable software tools, I translate complex atmospheric insights into practical solutions that enhance safety, resilience, and decision-making for both the public and professional communities in a changing atmosphere.\n“The first step in solving any problem is recognizing there is one.”"
+    "text": "GitHub\n  \n  \n      Google Scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     Web of Science\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI am Hungjui Yu (尤虹叡) – a Atmospheric Scientist based in Fort Collins, Colorado.\n\n\n\nCloud & Storm Structure – Unraveling the 3D features of clouds and storms.\n\nMesoscale Convective Processes – Understanding the environmental controls on clouds and storms.\n\nWeather–Climate Interface – Connecting short-term extremes with long-term climate trends.\nAviation – Building tools for cloud-related aviation applications.\n\n\n\n\n\n\nData Integration and Analysis – Combining remote-sensing observations and numerical models.\nMachine Learning – Extracting patterns and mechanisms within clouds and the environments.\nSoftware Development – Creating scalable, open-source packages for research and applications.\n“The first step in solving any problem is recognizing there is one.”\nI integrate remote-sensing observations, numerical modeling, and machine learning to reveal the processes that shape storms in a changing environment.\nMy work advances scientific understanding while improving operational safety. Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making for both professionals and the public in a changing atmosphere."
   },
   {
     "objectID": "research.html",
@@ -39,7 +39,7 @@
     "href": "index.html#research",
     "title": "Hungjui Yu",
     "section": "",
-    "text": "Cloud & Storm Structure – Unraveling the 3D organization of clouds and storms.\n\nMesoscale Processes – Studying the environmental drivers of convective weather.\n\nWeather–Climate Interface – Linking short-term weather patterns to longer-term changing climate."
+    "text": "Cloud & Storm Structure – Unraveling the 3D features of clouds and storms.\n\nMesoscale Convective Processes – Understanding the environmental controls on clouds and storms.\n\nWeather–Climate Interface – Connecting short-term extremes with long-term climate trends.\nAviation – Building tools for cloud-related aviation applications."
   },
   {
     "objectID": "index.html#decoding-clouds-storms-and-the-skies-we-fly-through",
@@ -130,6 +130,13 @@
     "href": "index.html#tools",
     "title": "Hungjui Yu",
     "section": "",
-    "text": "Data Analysis – Combining remote-sensing observations and numerical models.\nMachine Learning – Extracting patterns and mechanisms within clouds and their environments.\n\nAviation – Cloud-Free Line-of-Sight (CFLOS) and lightning estimation."
+    "text": "Data Integration and Analysis – Combining remote-sensing observations and numerical models.\nMachine Learning – Extracting patterns and mechanisms within clouds and the environments.\nSoftware Development – Creating scalable, open-source packages for research and applications."
+  },
+  {
+    "objectID": "index.html#the-first-step-in-solving-any-problem-is-recognizing-there-is-one.",
+    "href": "index.html#the-first-step-in-solving-any-problem-is-recognizing-there-is-one.",
+    "title": "Hungjui Yu",
+    "section": "“The first step in solving any problem is recognizing there is one.”",
+    "text": "“The first step in solving any problem is recognizing there is one.”\nI integrate remote-sensing observations, numerical modeling, and machine learning to reveal the processes that shape storms in a changing environment.\nMy work advances scientific understanding while improving operational safety. Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making for both professionals and the public in a changing atmosphere."
   }
 ]
