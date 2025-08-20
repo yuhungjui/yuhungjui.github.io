@@ -1,11 +1,12 @@
 ---
-title: "Hungjui Yu"
+title: ""
 format:
   html:
     toc: false
 about:
   template: trestles
   image: images/profile.jpg
+  image-title: ""
   links:
     - icon: github
       text: GitHub
