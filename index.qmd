@@ -4,6 +4,7 @@ format:
   html:
     toc: false
 about:
+  id: hero-heading
   template: trestles
   image: images/profile.jpg
   image-title: ""
@@ -11,11 +12,11 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/yuhungjui
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ
     - icon: orcid
       text: ORCID
       href: https://orcid.org/0000-0002-3796-0967
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ
     - icon: globe
       text: Web of Science
       href: https://www.webofscience.com/wos/author/record/HNR-9952-2023
@@ -23,6 +24,8 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/yuhungjui
 ---
+
+:::{#hero-heading}
 
 I am ***Hungjui Yu*** **(尤虹叡)** – a researcher in Atmospheric Science based in Fort Collins, Colorado.
 
@@ -45,6 +48,8 @@ I am ***Hungjui Yu*** **(尤虹叡)** – a researcher in Atmospheric Science ba
 <!-- My work explores the 3-dimensional structure of clouds and storms, the mesoscale convective and environmental processes that shape them, and their role at the weather–climate interface.
 
 I integrate environmental data analysis from remote-sensing observations and numerical models with machine learning techniques to uncover patterns and mechanisms within clouds and their environments. I also develop aviation-focused tools to better address and understand storm-related risks. -->
+
+:::
 
 ---
 

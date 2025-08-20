@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Hungjui Yu",
     "section": "",
-    "text": "I am Hungjui Yu (尤虹叡) – a researcher in Atmospheric Science based in Fort Collins, Colorado."
+    "text": "GitHub\n  \n  \n      Google Scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     Web of Science\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI am Hungjui Yu (尤虹叡) – a researcher in Atmospheric Science based in Fort Collins, Colorado.\n\n\n\n\nCloud & Storm Structure – Unraveling the 3D organization of clouds and storms.\n\nMesoscale Processes – Studying the environmental drivers of convective weather.\n\nWeather–Climate Interface – Linking short-term weather patterns to longer-term changing climate.\n\n\n\n\n\n\nData Analysis – Combining remote-sensing observations and numerical models.\nMachine Learning – Extracting patterns and mechanisms within clouds and their environments.\n\nAviation – Cloud-Free Line-of-Sight (CFLOS) and lightning estimation.\nI combine remote-sensing observations, numerical modeling, and machine learning to uncover the components that shape storms under changing environments.\nMy research enhances both scientific understanding and operational safety. By combining rigorous science with scalable software tools, I translate complex atmospheric insights into practical solutions that enhance safety, resilience, and decision-making for both the public and professional communities in a changing atmosphere.\n“The first step in solving any problem is recognizing there is one.”"
   },
   {
     "objectID": "research.html",
@@ -38,8 +38,8 @@
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Hungjui Yu",
-    "section": "Research",
-    "text": "Research\n\nCloud & Storm Structure – Unraveling the 3D organization of clouds and storms.\n\nMesoscale Processes – Studying the environmental drivers of convective weather.\n\nWeather–Climate Interface – Linking short-term weather patterns to longer-term changing climate."
+    "section": "",
+    "text": "Cloud & Storm Structure – Unraveling the 3D organization of clouds and storms.\n\nMesoscale Processes – Studying the environmental drivers of convective weather.\n\nWeather–Climate Interface – Linking short-term weather patterns to longer-term changing climate."
   },
   {
     "objectID": "index.html#decoding-clouds-storms-and-the-skies-we-fly-through",
@@ -129,7 +129,7 @@
     "objectID": "index.html#tools",
     "href": "index.html#tools",
     "title": "Hungjui Yu",
-    "section": "Tools",
-    "text": "Tools\n\nData Analysis – Combining remote-sensing observations and numerical models.\nMachine Learning – Extracting patterns and mechanisms within clouds and their environments.\n\nAviation – Cloud-Free Line-of-Sight (CFLOS) and lightning estimation.\n\n\n\nI combine remote-sensing observations, numerical modeling, and machine learning to uncover the components that shape storms under changing environments.\nMy research enhances both scientific understanding and operational safety. By combining rigorous science with scalable software tools, I translate complex atmospheric insights into practical solutions that enhance safety, resilience, and decision-making for both the public and professional communities in a changing atmosphere.\n“The first step in solving any problem is recognizing there is one.”"
+    "section": "",
+    "text": "Data Analysis – Combining remote-sensing observations and numerical models.\nMachine Learning – Extracting patterns and mechanisms within clouds and their environments.\n\nAviation – Cloud-Free Line-of-Sight (CFLOS) and lightning estimation."
   }
 ]
