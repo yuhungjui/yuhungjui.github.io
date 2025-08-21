@@ -17,6 +17,9 @@ about:
     - icon: orcid
       text: ORCID
       href: https://orcid.org/0000-0002-3796-0967
+    - icon: researchgate
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Hungjui-Yu
     - icon: globe
       text: Web of Science
       href: https://www.webofscience.com/wos/author/record/HNR-9952-2023
