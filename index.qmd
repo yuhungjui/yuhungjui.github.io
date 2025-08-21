@@ -14,8 +14,7 @@ about:
       href: https://github.com/yuhungjui
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ
-    - icon: orcid
-      text: ORCID
+    - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-3796-0967
     - text: "{{< ai researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Hungjui-Yu
