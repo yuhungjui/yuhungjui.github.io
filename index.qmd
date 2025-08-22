@@ -32,7 +32,9 @@ about:
 
 :::{#hero-heading}
 
-I am **Hungjui Yu 尤虹叡** – a Atmospheric Scientist based in Fort Collins, Colorado.
+## Hungjui Yu 尤虹叡
+
+I am a Atmospheric Scientist based in Fort Collins, Colorado.
 
 ## Research 
 
