@@ -1,13 +1,143 @@
 ---
 title: "Publications"
 format: html
+toc: true
+toc-location: left
 ---
 
-### Peer-Reviewed
+[{{< ai google-scholar >}} Google Scholar](https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ)
 
-1. **Yu, H.J.**, et al. (2024). *Deep Learning for Convective Mode Forecasting*. _J. Atmos. Sci._
-2. [...]
+[{{< ai cv >}} Full CV](cv.qmd)
 
-### Conference Presentations
+## Peer-Reviewed Journal Articles
 
-- AMS Annual Meeting (2023): Talk on [...]
+1. Kuo, H.-C., T.-S. Yo, **H. Yu**, S.-H. Su, C.-H. Liu, and P.-H. Lin, 2025: Data quality control and calibration for Mini-Radiosonde System “Storm Tracker” in Taiwan. *Journal of the Meteorological Society of Japan Ser II*. [{{< ai doi >}}](https://doi.org/10.2151/jmsj.2025-029)
+
+2. Tsujino, S., H.-C. Kuo, **H. Yu**, B.-F. Chen, and K. Tsuboki, 2021: Effects of mid-level moisture and environmental flow on the development of afternoon thunderstorms in Taipei. *Terrestrial Atmospheric and Oceanic Sciences*, **32**, 497. [{{< ai doi >}}](https://doi.org/10.3319/tao.2021.11.17.01)
+
+3. **Yu, H.**, K. L. Rasmussen, and H. Kuo, 2021: Quasi‐2‐Day and diurnal cloud variation timescales over convectively active regions. *Journal of Geophysical Research Atmospheres*, **126**. [{{< ai doi >}}](https://doi.org/10.1029/2021jd035426)
+
+4. Hwang, W.-C., P.-H. Lin, and **H. Yu**, 2020: The development of the “Storm Tracker” and its applications for atmospheric high-resolution upper-air observations. *Atmospheric Measurement Techniques*, **13**, 5395–5406. [{{< ai doi >}}](https://doi.org/10.5194/amt-13-5395-2020)
+
+5. **Yu, H.**, R. H. Johnson, P. E. Ciesielski, and H.-C. Kuo, 2018: Observation of Quasi-2-Day Convective Disturbances in the Equatorial Indian Ocean during DYNAMO. *Journal of the Atmospheric Sciences*, **75**, 2867–2888. [{{< ai doi >}}](https://doi.org/10.1175/jas-d-17-0351.1)
+
+6. **Yu, H.**, P. E. Ciesielski, J. Wang, H.-C. Kuo, H. Vömel, and R. Dirksen, 2015: Evaluation of humidity correction methods for Vaisala RS92 Tropical Sounding data. *Journal of Atmospheric and Oceanic Technology*, **32**, 397–411. [{{< ai doi >}}](https://doi.org/10.1175/jtech-d-14-00166.1)
+
+7. Ciesielski, P. E., **H. Yu**, and Coauthors, 2014: Quality-Controlled Upper-Air Sounding Dataset for DYNAMO/CINDY/AMIE: Development and corrections. *Journal of Atmospheric and Oceanic Technology*, **31**, 741–764. [{{< ai doi >}}](https://doi.org/10.1175/jtech-d-13-00165.1)
+
+---
+
+## Working Papers
+
+1. {{< ai arxiv >}}
+
+---
+
+## Invited Talks
+
+### 2023
+
+- **Central Weather Bureau (now Central Weather Administration, CWA) in Taiwan (2023)**
+    - *Clouds and Storms on Bridging Weather and Climate*
+
+### 2022
+
+- **Climate Hotpots in Action (CHiA) Forum Webinar (2022)**
+    - *Quasi-Two-Day and Diurnal Cloud Variation Timescales over Convectively Active
+Regions*
+
+### 2020
+
+- **Department of Atmospheric Sciences, National Central University (NCU) | Department of Atmospheric Sciences, Chinese Culture University (PCCU) (2020)**
+    - *Quality-Controlled High-Resolution Upper-Air Sounding Dataset for TASSE: Development and Corrections of the “Storm Tracker” Observations*
+
+### 2019
+
+- **Department of Atmospheric Sciences, Chinese Culture University (PCCU) (2019)**
+    - *TAipei Severe Storm Experiment (TASSE): Upper-air Radiosonde Observations and the Development of the “Storm Tracker”*
+
+### 2018
+
+- **Department of Earth Sciences, National Taiwan Normal University (NTNU) (2018)**
+    - *Quasi-2-day Convective Disturbances in the Equatorial Indian Ocean: DYNAMO Observation*
+
+---
+
+## Conference Presentations
+
+### 2024
+
+- **36th Conference on Hurricanes and Tropical Meteorology (2024)**
+    - *Mesoscale Convective Organization Modulated by Convectively Coupled Equatorial Waves* (Talk by Y. M. Cheng)
+
+### 2023
+
+- **AGU Fall Meeting (2023)**
+    - *Extreme Weather in South America: Perspectives from Convection-Permitting Regional Climate and Global Climate Models* (Talk by K. L. Rasmussen)
+
+- **40th Conference on Radar Meteorology (2023)**
+    - *Heavy rainfall in complex terrain: A view from space* (Talk by B. Dolan)
+
+- **The 15th International Conference on Mesoscale Convective Systems (ICMCS-XV) (2023)**
+    - *Current & Future Convective Storm Modes over CONUS from GPM Observations and Convection-permitting Regional Climate Model Simulations* (Talk)
+
+- **AMS Annual Meeting (2023)**
+    - *Current and Future Convective Storm Modes over CONUS from GPM Observations and Convection-Permitting Regional Climate Model Simulations* (Poster)
+    - *Ingredient-Based Analysis for Extreme Rainfall Events in Taiwan* (Talk by T. Zuo)
+    - *How Terrain Influences the Electrical Characteristics of Storms Observed during RELAMPAGO* (Talk by M. N. Rocque)
+    - *Convective Population and Environments in Convection-Allowing Regional Climate Simulations over South America* (Poster by D. S. Veloso-Aguila)
+
+### 2022
+
+- **AMS Annual Meeting (2022)**
+    - *Upper-Air Radiosonde Observations and Data Corrections of the Storm Tracker during PRECIP 2021* (Poster)
+
+### 2020
+
+- **Conference on Weather Analysis and Forecasting (Central Weather Bureau, Taiwan) (2020)**
+    - *Quality-Controlled High-Resolution Upper-Air Sounding Dataset for TASSE: Development and Corrections of the Storm Tracker Observations* (Poster)
+
+### 2019
+
+- **Asia Oceania Geosciences Society (AOGS) 16th Annual Meeting (2019)**
+    - *Quasi-2-day Convective Disturbances Over the Equatorial Indian Ocean and Western Pacific* (Talk)
+
+- **Taipei Severe Weather and Extreme Precipitation (SWEP) Workshop (2019)**
+    - *Upper-air Radiosonde and “Storm Tracker” Observations in TASSE 2018* (Poster)
+
+- **13th International Conference on Mesoscale Convective Systems and High-Impact Weather in East Asia (ICMCS-XIII) (2019)**
+    - *Characteristics of Quasi-2-Day Convective Disturbances over the Tropical Ocean* (Poster)
+
+### 2017
+
+- **12th International Conference on Mesoscale Convective Systems and High-Impact Weather in East Asia (ICMCS-XII) (2017)**
+    - *An Observational Study on Quasi-2-day Convective Disturbances in the Equatorial Indian Ocean during DYNAMO/AMIE/CINDY 2011* (Poster)
+
+### 2015
+
+- **AGU Fall Meeting (2015)**
+    - *Two-day Convective Disturbances in the Equatorial Indian Ocean* (Poster)
+
+- **International Workshop on Typhoon and Flood–APEC Experience Sharing on Hazardous Weather Events and Risk Management (2015)**
+    - *Two-day Disturbances over the Equatorial Indian Ocean during DYNAMO-AMIE-CINDY 2011* (Poster)
+
+### 2014
+
+- **Asia Oceania Geosciences Society (AOGS) 11th Annual Meeting (2014)**
+    - *Characteristics and Variability of the Melting Stable Layer during DYNAMO-AMIECINDY 2011* (Poster)
+
+- **17th Symposium on Meteorological Observations and Instrumentation / 21st Conference on Applied Climatology (2014)**
+    - *Evaluation of GRUAN and DigiCORA Humidity Corrections to Vaisala RS92 Sounding Data during DYNAMO* (Talk by P. E. Ciesielski)
+
+- **National Conference of Graduate Students in Atmospheric Sciences (2014)**
+    - *Characteristics and Variability of the Melting Stable Layer during DYNAMO-AMIECINDY 2011* (Poster)
+
+### 2013
+
+- **AGU Fall Meeting (2013)**
+    - *Characteristics and Variability of the Melting Stable Layer during DYNAMO* (Talk)
+
+### 2012
+
+- **AGU Fall Meeting (2012)**
+    - *Validation of Sonde Moisture Corrections using GPS and MWR Precipitable Water Retrievals during DYNAMO-CINDY2011-AMIE* (Talk)

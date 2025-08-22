@@ -15,10 +15,12 @@ website:
     left:
       # - text: "Home"
       #   href: index.qmd
-      # - text: "Research"
-      #   href: research.qmd
-      # - text: "Publications"
-      #   href: publications.qmd
+      - text: "Research"
+        menu:
+        - text: "Projects"
+          href: projects.qmd
+        - text: "List of Publications"
+          href: publications.qmd
       - text: "CV"
         href: cv.qmd
     
