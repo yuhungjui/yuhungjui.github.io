@@ -1,15 +1,5 @@
 ---
-title: "Research"
+title: "Research Projects"
 format: html
 ---
 
-### DCFLOS Toolbox
-
-A Python package for analyzing storm-mode classification.
-
-- GitHub: [DCFLOS_toolbox](https://github.com/yourrepo)
-- Features: Lightning parsing, 3D visualization, ML workflows
-
-### Other Projects
-
-- [Your other project title](https://link) – Short description.
