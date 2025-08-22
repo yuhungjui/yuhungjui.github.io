@@ -1,6 +1,10 @@
 project:
   type: website
 
+# Meta
+description-meta: "Academic Website by Dr. Hungjui Yu"
+author-meta: "Dr. Hungjui Yu"
+
 website:
   title: "Hungjui Yu"
   site-url: "https://yuhungjui.github.io"
@@ -17,7 +21,10 @@ website:
       #   href: publications.qmd
       - text: "CV"
         href: cv.qmd
-    search: true
+    
+  search:
+    location: navbar
+    # type: textbox
 
   page-footer:
     center: © 2025 Hungjui Yu · Powered by Quarto

@@ -1,14 +1,17 @@
 ---
 title: ""
-format:
-  html:
-    toc: false
+toc: false
+page-layout: full
+
 about:
   id: hero-heading
   template: trestles
   image: images/profile.jpg
   image-title: ""
   links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:hungjui@rams.colostate.edu
     - icon: github
       text: GitHub
       href: https://github.com/yuhungjui
@@ -18,9 +21,10 @@ about:
       href: https://orcid.org/0000-0002-3796-0967
     - text: "{{< ai researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Hungjui-Yu
-    # - icon: globe
-    #   text: Web of Science
-    #   href: https://www.webofscience.com/wos/author/record/HNR-9952-2023
+    - text: "{{< ai clarivate >}} Web of Science"
+      href: https://www.webofscience.com/wos/author/record/HNR-9952-2023
+    # - text: "{{< ai scopus >}} Scopus"
+    #   href: https://www.scopus.com/authid/detail.uri?authorId=56120916000
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/yuhungjui
@@ -28,7 +32,7 @@ about:
 
 :::{#hero-heading}
 
-I am **Hungjui Yu (尤虹叡)** – a Atmospheric Scientist based in Fort Collins, Colorado.
+I am **Hungjui Yu 尤虹叡** – a Atmospheric Scientist based in Fort Collins, Colorado.
 
 ## Research 
 
