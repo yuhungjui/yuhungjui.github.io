@@ -1,8 +1,9 @@
 ---
 title: "Publications"
 format: html
+page-layout: article
 toc: true
-toc-location: left
+toc-location: right
 ---
 
 [{{< ai google-scholar >}} Google Scholar](https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ)
@@ -29,7 +30,7 @@ toc-location: left
 
 ## Working Papers
 
-1. {{< ai arxiv >}}
+<!-- 1. {{< ai arxiv >}} -->
 
 ---
 
