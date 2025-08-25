@@ -18,9 +18,9 @@ website:
       - text: "Research"
         menu:
         - text: "Projects"
-          href: projects.qmd
+          href: research/projects.qmd
         - text: "Publications"
-          href: publications.qmd
+          href: research/publications.qmd
       - text: "CV"
         href: cv/cv.qmd
     
