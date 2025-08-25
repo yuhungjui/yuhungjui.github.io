@@ -69,6 +69,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 </head>
@@ -224,6 +225,11 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -544,7 +550,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© 2025 Hungjui Yu · Powered by Quarto</p>
+<p>© 2025 Hungjui Yu · Powered by <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" class="img-fluid" alt="Quarto" width="70"></a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
@@ -555,4 +561,5 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

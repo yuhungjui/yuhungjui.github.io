@@ -7,7 +7,7 @@ toc-location: left
 
 [{{< ai google-scholar >}} Google Scholar](https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ)
 
-[{{< ai cv >}} Full CV](cv.qmd)
+[{{< ai cv >}} Full CV](/cv/cv.qmd)
 
 ## Peer-Reviewed Journal Articles
 

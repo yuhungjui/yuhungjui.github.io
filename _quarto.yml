@@ -19,20 +19,23 @@ website:
         menu:
         - text: "Projects"
           href: projects.qmd
-        - text: "List of Publications"
+        - text: "Publications"
           href: publications.qmd
       - text: "CV"
-        href: cv.qmd
+        href: cv/cv.qmd
     
   search:
     location: navbar
     # type: textbox
 
   page-footer:
-    center: © 2025 Hungjui Yu · Powered by Quarto
+    center: © 2025 Hungjui Yu · Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=70px}](https://quarto.org/) 
 
 format:
   html:
     theme: sandstone
+    # mainfont: Roboto
     # css: styles.css
-    toc: true
+    # toc: true
+    link-external-newwindow: true
+    smooth-scroll: true

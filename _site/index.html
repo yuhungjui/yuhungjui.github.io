@@ -70,6 +70,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 </head>
@@ -104,13 +105,13 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./publications.pdf">
- <span class="dropdown-text">List of Publications</span></a>
+    <a class="dropdown-item" href="./publications.html">
+ <span class="dropdown-text">Publications</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="./cv/cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -284,6 +285,11 @@ I integrate environmental data analysis from remote-sensing observations and num
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -604,7 +610,7 @@ I integrate environmental data analysis from remote-sensing observations and num
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© 2025 Hungjui Yu · Powered by Quarto</p>
+<p>© 2025 Hungjui Yu · Powered by <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" class="img-fluid" alt="Quarto" width="70"></a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
@@ -615,4 +621,5 @@ I integrate environmental data analysis from remote-sensing observations and num
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
