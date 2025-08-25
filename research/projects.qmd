@@ -2,8 +2,14 @@
 title: "Research Projects"
 format: html
 listing:
-  contents: projects/
+  # contents: projects/
+  contents:
+    - projects/weather_climate/index.qmd
+    - projects/ml/index.qmd
   type: grid
+  sort: none
+  grid-columns: 2
+  # grid-item-border: false
 page-layout: article
 ---
 

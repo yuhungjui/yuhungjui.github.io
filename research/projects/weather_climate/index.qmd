@@ -1,6 +1,33 @@
 ---
 title: "Weather and Climate Interface"
 format: html
-page-layout: full
+image: featured.png
+page-layout: article
 ---
 
+---
+
+![NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2025). [Link](https://www.ncei.noaa.gov/access/billions/).](featured.png)
+
+---
+
+The frequency of storm-related weather and climate disasters exceeding $1 billion USD in damages has risen markedly, reflecting the growing impact of extreme weather events observed worldwide.
+
+The **Weather-and-Climate Interface** research explores how extreme weather events—particularly cloud and storm processes—develop from local atmospheric conditions and how their characteristics evolve in a changing climate.
+
+By connecting high-resolution weather phenomena with broader climate variability through observations and numerical modeling, this research seeks to advance understanding of the role of clouds at the weather–climate interface and their variability in shaping future climate projections.
+
+Research topics include
+
+- Three-dimensional cloud and storm structures: identification and classification.
+- Mesoscale convective processes and convective life cycles: regional impacts and global patterns.
+- Long-term remote sensing observations and cloud-permitting regional climate model simulations.
+
+
+## Related Works
+
+Tsujino, S., H.-C. Kuo, **H. Yu**, B.-F. Chen, and K. Tsuboki, 2021: Effects of mid-level moisture and environmental flow on the development of afternoon thunderstorms in Taipei. *Terrestrial Atmospheric and Oceanic Sciences*, **32**, 497. [{{< ai doi >}}](https://doi.org/10.3319/tao.2021.11.17.01)
+
+**Yu, H.**, K. L. Rasmussen, and H. Kuo, 2021: Quasi‐2‐Day and diurnal cloud variation timescales over convectively active regions. *Journal of Geophysical Research Atmospheres*, **126**. [{{< ai doi >}}](https://doi.org/10.1029/2021jd035426)
+
+**Yu, H.**, R. H. Johnson, P. E. Ciesielski, and H.-C. Kuo, 2018: Observation of Quasi-2-Day Convective Disturbances in the Equatorial Indian Ocean during DYNAMO. *Journal of the Atmospheric Sciences*, **75**, 2867–2888. [{{< ai doi >}}](https://doi.org/10.1175/jas-d-17-0351.1)

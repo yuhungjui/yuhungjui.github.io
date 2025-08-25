@@ -19,8 +19,8 @@ website:
         menu:
         - text: "Projects"
           href: research/projects.qmd
-        - text: "Publications"
-          href: research/publications.qmd
+      - text: "Publications"
+        href: publications/publications.qmd
       - text: "CV"
         href: cv/cv.qmd
     
@@ -35,7 +35,7 @@ format:
   html:
     theme: sandstone
     # mainfont: Roboto
-    # css: styles.css
+    css: styles.css
     # toc: true
     link-external-newwindow: true
     smooth-scroll: true
