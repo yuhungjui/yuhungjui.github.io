@@ -1,6 +1,19 @@
 ---
-title: "Machine Learning"
+title: "Machine Learning Application to Clouds and Storms"
 format: html
-page-layout: full
+image: featured.png
+page-layout: article
 ---
+
+---
+
+![Credits: Image courtesy of Caltech and Tapio Schneider. Adapted from [Link](https://news.mit.edu/2018/new-climate-modeling-alliance-clima-1212).](featured.png)
+
+---
+
+This research applies machine learning methods to study weather events associated with clouds and storms, with a focus on their three-dimensional structures and frequency.
+
+By leveraging environmental variables and high-resolution data, the models capture how sub-scale cloud processes relate to large-scale atmospheric conditions. 
+
+The approach provides new insights into how cloud-related weather events may change under future climate scenarios, advancing understanding at the weather–climate interface.
 
