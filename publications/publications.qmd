@@ -32,6 +32,8 @@ toc-location: right
 
 1. **H. Yu**, L. Ver Hoef, K. L. Rasmussen, & I. Ebert-Uphoff, 2025: Using machine learning to downscale coarse-resolution environmental variables for understanding the spatial frequency of convective storms. (submitted) [{{< ai arxiv >}}](https://doi.org/10.48550/arXiv.2509.08802)
 
+2. **H. Yu**, Rasmussen, K. L., Dolan, B. (2025). Current and Future Convective Storm Modes over CONUS from GPM Observations and Convection-Permitting Regional Climate Model Simulations. (reformatting for submission)
+
 ---
 
 ## Invited Talks

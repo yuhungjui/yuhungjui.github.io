@@ -17,3 +17,6 @@ By leveraging environmental variables and high-resolution data, the models captu
 
 The approach provides new insights into how cloud-related weather events may change under future climate scenarios, advancing understanding at the weather–climate interface.
 
+## Related Works
+
+**H. Yu**, L. Ver Hoef, K. L. Rasmussen, & I. Ebert-Uphoff, 2025: Using machine learning to downscale coarse-resolution environmental variables for understanding the spatial frequency of convective storms. (submitted) [{{< ai arxiv >}}](https://doi.org/10.48550/arXiv.2509.08802)
