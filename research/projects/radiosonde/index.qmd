@@ -1,6 +1,22 @@
 ---
-title: "Radiosonde"
+title: "Radiosonde Observation, Data  QA/QC"
 format: html
-page-layout: full
+image: featured.png
+page-layout: article
 ---
+
+---
+
+![NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2025). [Link](https://www.ncei.noaa.gov/access/billions/).](featured.png)
+
+---
+
+The 
+
+Research topics include
+
+- The
+
+
+## Related Works
 
