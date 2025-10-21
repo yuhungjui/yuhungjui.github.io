@@ -10,29 +10,25 @@ toc-location: right
 
 [{{< ai cv >}} Full CV](/cv/cv.qmd)
 
-## Peer-Reviewed Journal Articles
+## Journal Articles
 
-1. Kuo, H.-C., T.-S. Yo, **H. Yu**, S.-H. Su, C.-H. Liu, and P.-H. Lin, 2025: Data quality control and calibration for Mini-Radiosonde System “Storm Tracker” in Taiwan. *Journal of the Meteorological Society of Japan Ser II (気象集誌 第2輯)*, **103(5)**, 573–593. [{{< ai doi >}}](https://doi.org/10.2151/jmsj.2025-029)
+9. **Yu, H.**, L. Ver Hoef, K. L. Rasmussen, & I. Ebert-Uphoff, 2025: Using machine learning to downscale coarse-resolution environmental variables for understanding the spatial frequency of convective storms. (under review) [{{< ai arxiv >}}](https://doi.org/10.48550/arXiv.2509.08802)
 
-2. Tsujino, S., H.-C. Kuo, **H. Yu**, B.-F. Chen, and K. Tsuboki, 2021: Effects of mid-level moisture and environmental flow on the development of afternoon thunderstorms in Taipei. *Terrestrial Atmospheric and Oceanic Sciences*, **32**, 497. [{{< ai doi >}}](https://doi.org/10.3319/tao.2021.11.17.01)
+8. **Yu, H.**, Rasmussen, K. L., Dolan, B. (2025). Current and Future Convective Storm Modes over CONUS from GPM Observations and Convection-Permitting Regional Climate Model Simulations. (reformatting for submission)
 
-3. **Yu, H.**, K. L. Rasmussen, and H. Kuo, 2021: Quasi‐2‐Day and diurnal cloud variation timescales over convectively active regions. *Journal of Geophysical Research Atmospheres*, **126**. [{{< ai doi >}}](https://doi.org/10.1029/2021jd035426)
+7. Kuo, H.-C., T.-S. Yo, **H. Yu**, S.-H. Su, C.-H. Liu, and P.-H. Lin, 2025: Data quality control and calibration for Mini-Radiosonde System “Storm Tracker” in Taiwan. *Journal of the Meteorological Society of Japan Ser II (気象集誌 第2輯)*, **103(5)**, 573–593. [{{< ai doi >}}](https://doi.org/10.2151/jmsj.2025-029)
+
+6. Tsujino, S., H.-C. Kuo, **H. Yu**, B.-F. Chen, and K. Tsuboki, 2021: Effects of mid-level moisture and environmental flow on the development of afternoon thunderstorms in Taipei. *Terrestrial Atmospheric and Oceanic Sciences*, **32**, 497. [{{< ai doi >}}](https://doi.org/10.3319/tao.2021.11.17.01)
+
+5. **Yu, H.**, K. L. Rasmussen, and H. Kuo, 2021: Quasi‐2‐Day and diurnal cloud variation timescales over convectively active regions. *Journal of Geophysical Research Atmospheres*, **126**. [{{< ai doi >}}](https://doi.org/10.1029/2021jd035426)
 
 4. Hwang, W.-C., P.-H. Lin, and **H. Yu**, 2020: The development of the “Storm Tracker” and its applications for atmospheric high-resolution upper-air observations. *Atmospheric Measurement Techniques*, **13**, 5395–5406. [{{< ai doi >}}](https://doi.org/10.5194/amt-13-5395-2020)
 
-5. **Yu, H.**, R. H. Johnson, P. E. Ciesielski, and H.-C. Kuo, 2018: Observation of Quasi-2-Day Convective Disturbances in the Equatorial Indian Ocean during DYNAMO. *Journal of the Atmospheric Sciences*, **75**, 2867–2888. [{{< ai doi >}}](https://doi.org/10.1175/jas-d-17-0351.1)
+3. **Yu, H.**, R. H. Johnson, P. E. Ciesielski, and H.-C. Kuo, 2018: Observation of Quasi-2-Day Convective Disturbances in the Equatorial Indian Ocean during DYNAMO. *Journal of the Atmospheric Sciences*, **75**, 2867–2888. [{{< ai doi >}}](https://doi.org/10.1175/jas-d-17-0351.1)
 
-6. **Yu, H.**, P. E. Ciesielski, J. Wang, H.-C. Kuo, H. Vömel, and R. Dirksen, 2015: Evaluation of humidity correction methods for Vaisala RS92 Tropical Sounding data. *Journal of Atmospheric and Oceanic Technology*, **32**, 397–411. [{{< ai doi >}}](https://doi.org/10.1175/jtech-d-14-00166.1)
+2. **Yu, H.**, P. E. Ciesielski, J. Wang, H.-C. Kuo, H. Vömel, and R. Dirksen, 2015: Evaluation of humidity correction methods for Vaisala RS92 Tropical Sounding data. *Journal of Atmospheric and Oceanic Technology*, **32**, 397–411. [{{< ai doi >}}](https://doi.org/10.1175/jtech-d-14-00166.1)
 
-7. Ciesielski, P. E., **H. Yu**, and Coauthors, 2014: Quality-Controlled Upper-Air Sounding Dataset for DYNAMO/CINDY/AMIE: Development and corrections. *Journal of Atmospheric and Oceanic Technology*, **31**, 741–764. [{{< ai doi >}}](https://doi.org/10.1175/jtech-d-13-00165.1)
-
----
-
-## Working Papers
-
-1. **Yu, H.**, L. Ver Hoef, K. L. Rasmussen, & I. Ebert-Uphoff, 2025: Using machine learning to downscale coarse-resolution environmental variables for understanding the spatial frequency of convective storms. (under review) [{{< ai arxiv >}}](https://doi.org/10.48550/arXiv.2509.08802)
-
-2. **Yu, H.**, Rasmussen, K. L., Dolan, B. (2025). Current and Future Convective Storm Modes over CONUS from GPM Observations and Convection-Permitting Regional Climate Model Simulations. (reformatting for submission)
+1. Ciesielski, P. E., **H. Yu**, and Coauthors, 2014: Quality-Controlled Upper-Air Sounding Dataset for DYNAMO/CINDY/AMIE: Development and corrections. *Journal of Atmospheric and Oceanic Technology*, **31**, 741–764. [{{< ai doi >}}](https://doi.org/10.1175/jtech-d-13-00165.1)
 
 ---
 
