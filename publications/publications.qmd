@@ -12,7 +12,7 @@ toc-location: right
 
 ## Journal Articles
 
-1. **Yu, H.**, L. Ver Hoef, K. L. Rasmussen, & I. Ebert-Uphoff, 2026: Exploring the Ability of Machine Learning to Infer Subgrid-scale Convective Cloud Fraction from Coarse-Resolution Environmental Conditions. (in press; AIES; DOI: 10.1175/AIES-D-25-0085.1) [{{< ai arxiv >}}](https://doi.org/10.48550/arXiv.2509.08802)
+1. **Yu, H.**, L. Ver Hoef, K. L. Rasmussen, & I. Ebert-Uphoff, 2026: Exploring the Ability of Machine Learning to Infer Subgrid-scale Convective Cloud Fraction from Coarse-Resolution Environmental Conditions. *Artificial Intelligence for the Earth Systems (2026)* [{{< ai doi >}}](https://doi.org/10.1175/AIES-D-25-0085.1) [{{< ai arxiv >}}](https://doi.org/10.48550/arXiv.2509.08802)
 
 1. **Yu, H.**, Rasmussen, K. L., Dolan, B. (2025). Current and Future Convective Storm Modes over CONUS from GPM Observations and Convection-Permitting Regional Climate Model Simulations. (reformatting for submission)
 
