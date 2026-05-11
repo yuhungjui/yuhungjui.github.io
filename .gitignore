@@ -1,7 +1,6 @@
 /.quarto/
 
 .Rproj.user
-.DS_Store
 .Rhistory
 /.quarto/
 /_site/
@@ -24,3 +23,7 @@
 # PDF viewers (like Adobe) temp files
 *.pdf~
 *.acsm
+
+# macOS
+.DS_Store
+**/.DS_Store
