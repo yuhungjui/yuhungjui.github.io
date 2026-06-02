@@ -43,7 +43,7 @@ Through rigorous science and scalable software tools, I transform complex atmosp
 ## Research 
 
 - **Cloud & Storm Structure** – Unraveling the 3D structure and internal organization of clouds and storms.  
-- **Mesoscale Convective Processes** – Understanding how environmental conditions regulate convective initiation, growth, and decay..  
+- **Mesoscale Convective Processes** – Understanding how environmental conditions regulate convective initiation, growth, and decay.
 - **Weather–Climate Interface** – Linking short-lived extremes with longer-term variability and climate trends.
 - **Aviation** – Developing tools to detect and quantify cloud-free line of sight.
 
@@ -51,7 +51,7 @@ Through rigorous science and scalable software tools, I transform complex atmosp
 
 ## Tools
 
-- **Data Integration and Analysis** – Combining satellite, radar, and in situ observations with cloud-permitting models.
+- **Data Integration & Analysis** – Combining satellite, radar, and in situ observations with cloud-permitting models.
 - **Machine Learning** – Extracting patterns and mechanisms within clouds and their environments to improve scientific understanding.
 - **Software Development** – Creating scalable, open-source tools and workflows for research and operational applications.
 
