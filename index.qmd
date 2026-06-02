@@ -34,9 +34,11 @@ about:
 
 ## Hungjui Yu 尤虹叡
 
-Atmospheric research scientist based in Fort Collins, Colorado, U.S.
+*Atmospheric Research Scientist based in Fort Collins, Colorado, U.S.*
 
 I study the 3D structure of convective storms and how they evolve in various environments using remote-sensing observations, numerical models, and machine learning, with applications to high-impact weather and aviation safety.
+
+Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making.
 
 ## Research 
 
@@ -63,9 +65,9 @@ I integrate environmental data analysis from remote-sensing observations and num
 
 > *"The first step in solving any problem is recognizing there is one."*
 
-I integrate **remote-sensing observations**, **numerical modeling**, and **machine learning** to reveal the processes that shape storms in a changing environment.
+<!-- I integrate **remote-sensing observations**, **numerical modeling**, and **machine learning** to reveal the processes that shape storms in a changing environment.
 
-My work advances **scientific understanding** while improving **operational safety**. Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making for both professionals and the public in a changing atmosphere.
+My work advances **scientific understanding** while improving **operational safety**. Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making for both professionals and the public in a changing atmosphere. -->
 
 <!-- - 🔬 Research in: Clouds and Convective storms, Remote Sensing, Machine Learning
 - 📍 Based in Fort Collins, CO
