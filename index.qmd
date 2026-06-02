@@ -15,13 +15,13 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/yuhungjui
-    - text: "{{< ai google-scholar >}} Google Scholar"
+    - text: "{{< ai google-scholar >}} Scholar"
       href: https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-3796-0967
     - text: "{{< ai researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Hungjui-Yu
-    - text: "{{< ai clarivate >}} Web of Science"
+    - text: "{{< ai clarivate >}} WOS"
       href: https://www.webofscience.com/wos/author/record/HNR-9952-2023
     # - text: "{{< ai scopus >}} Scopus"
     #   href: https://www.scopus.com/authid/detail.uri?authorId=56120916000
@@ -34,22 +34,24 @@ about:
 
 ## Hungjui Yu 尤虹叡
 
-I am a Atmospheric Scientist based in Fort Collins, Colorado, U.S.
+Atmospheric research scientist based in Fort Collins, Colorado, U.S.
+
+I study the 3D structure of convective storms and how they evolve in various environments using remote-sensing observations, numerical models, and machine learning, with applications to high-impact weather and aviation safety.
 
 ## Research 
 
-- **Cloud & Storm Structure** – Unraveling the 3D features of clouds and storms.  
-- **Mesoscale Convective Processes** – Understanding the environmental controls on clouds and storms.  
-- **Weather–Climate Interface** – Connecting short-term extremes with long-term climate trends.
-- **Aviation** – Building tools for cloud-related aviation applications.
+- **Cloud & Storm Structure** – Unraveling the 3D structure and internal organization of clouds and storms.  
+- **Mesoscale Convective Processes** – Understanding how environmental conditions regulate convective initiation, growth, and decay..  
+- **Weather–Climate Interface** – Linking short-lived extremes with longer-term variability and climate trends.
+- **Aviation** – Developing tools to detect and quantify cloud-free line of sight.
 
 <!-- I study the 3D structure of clouds and storms, blending atmospheric science and machine learning to reveal patterns that shape weather and climate, and to create tools that make aviation safer for professionals and the public alike. -->
 
 ## Tools
 
-- **Data Integration and Analysis** – Combining remote-sensing observations and numerical models.
-- **Machine Learning** – Extracting patterns and mechanisms within clouds and the environments.
-- **Software Development** – Creating scalable, open-source packages for research and applications.
+- **Data Integration and Analysis** – Combining satellite, radar, and in situ observations with cloud-permitting models.
+- **Machine Learning** – Extracting patterns and mechanisms within clouds and their environments to improve scientific understanding.
+- **Software Development** – Creating scalable, open-source tools and workflows for research and operational applications.
 
 <!-- My work explores the 3-dimensional structure of clouds and storms, the mesoscale convective and environmental processes that shape them, and their role at the weather–climate interface.
 
@@ -59,7 +61,7 @@ I integrate environmental data analysis from remote-sensing observations and num
 
 ---
 
-***"The first step in solving any problem is recognizing there is one."***
+> *"The first step in solving any problem is recognizing there is one."*
 
 I integrate **remote-sensing observations**, **numerical modeling**, and **machine learning** to reveal the processes that shape storms in a changing environment.
 
