@@ -40,7 +40,7 @@ toc-location: right
 
 ### 2026
 
-- **IPC15 Pre-cc96onference Asia Virtual Workshop**
+- **IPC15 Pre-conference Asia Virtual Workshop**
     - *Bridging Weather, Climate, and AI/ML for Severe Storms*
 
 ### 2023
