@@ -38,9 +38,14 @@ toc-location: right
 
 ## Invited Talks
 
+### 2026
+
+- **IPC15 Pre-cc96onference Asia Virtual Workshop**
+    - *Bridging Weather, Climate, and AI/ML for Severe Storms*
+
 ### 2023
 
-- **Central Weather Bureau (now Central Weather Administration, CWA) in Taiwan (2023)**
+- **Central Weather Administration in Taiwan**
     - *Clouds and Storms on Bridging Weather and Climate*
 
 ### 2022
