@@ -155,3 +155,21 @@ Regions*
 
 - **AGU Fall Meeting (2012)**
     - *Validation of Sonde Moisture Corrections using GPS and MWR Precipitable Water Retrievals during DYNAMO-CINDY2011-AMIE* (Talk)
+
+---
+
+## Research Activities
+
+### 2026
+
+- **CIRA, CSU**
+    - *How I Found My Way into Weather and Climate Research*
+
+### 2025
+
+- **Co-lead and co-organizer for 2025 TW-US AI/ML Workshop（CIRA, CSU)**
+
+### 2022
+
+- **Department of Atmospheric Science, CSU**
+    - *Big Picture Thinking: How to approach scientific research and flip your mindset?*
