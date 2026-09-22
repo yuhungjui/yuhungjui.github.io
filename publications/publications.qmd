@@ -12,7 +12,9 @@ toc-location: right
 
 ## Journal Articles
 
-1. Dongwei Chen, Emily J. King, **H. Yu**, 2026: Taylor Diagram and Wasserstein Distance for Model Evaluation. *Sampling Theory, Signal Processing, and Data Analysis* (submitted) [{{< ai arxiv >}}](https://arxiv.org/abs/2609.17950)
+1. Tianqi Zuo; Alison D. Nugent; Angela K. Rowe; Kristen L. Rasmussen; **H. Yu**, 2026: Climatology of Taiwan's Heavy Rainfall Events and Associated Storm Types. (submitted to *Monthly Weather Review*)
+
+1. Dongwei Chen, Emily J. King, **H. Yu**, 2026: Taylor Diagram and Wasserstein Distance for Model Evaluation. (submitted to *Sampling Theory, Signal Processing, and Data Analysis*) [{{< ai arxiv >}}](https://arxiv.org/abs/2609.17950)
 
 1. **Yu, H.**, L. Ver Hoef, K. L. Rasmussen, & I. Ebert-Uphoff, 2026: Exploring the Ability of Machine Learning to Infer Subgrid-scale Convective Cloud Fraction from Coarse-Resolution Environmental Conditions. *Artificial Intelligence for the Earth Systems (2026)* [{{< ai doi >}}](https://doi.org/10.1175/AIES-D-25-0085.1)
 <!-- [{{< ai arxiv >}}](https://doi.org/10.48550/arXiv.2509.08802) -->
