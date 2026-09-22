@@ -31,15 +31,15 @@ toc-location: right
 
 ### 2026
 
-- **CIRA, CSU**
+- **Mentoring Visiting South Korea Undergraduate Students, CIRA, CSU**
     - *How I Found My Way into Weather and Climate Research*
 
 ### 2024
 
-- **Department of Atmospheric Science, CSU**
-    - *Optimizing Python Codes* ([{{< fa brands github >}}](https://github.com/yuhungjui/demo_Python_Multiprocess))
+- **Inner Learning Group Tutorial, Department of Atmospheric Science, CSU**
+    - *Optimizing Python Codes* [{{< fa brands github >}}](https://github.com/yuhungjui/demo_Python_Multiprocess)
 
 ### 2022
 
-- **Department of Atmospheric Science, CSU**
+- **Mentoring NSF Research Experiences for Undergraduates Students, Department of Atmospheric Science, CSU**
     - *Big Picture Thinking: How to approach scientific research and flip your mindset?*
