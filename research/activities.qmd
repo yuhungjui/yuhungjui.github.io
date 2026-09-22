@@ -44,5 +44,5 @@ toc-location: right
 
 ### 2022
 
-- **Mentoring NSF Research Experiences for Undergraduates Students, Department of Atmospheric Science, CSU**
+- **Mentoring NSF Research Experiences for Undergraduates (REU) Students, Department of Atmospheric Science, CSU**
     - *Big Picture Thinking: How to approach scientific research and flip your mindset?*
