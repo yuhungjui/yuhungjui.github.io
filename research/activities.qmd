@@ -12,7 +12,8 @@ toc-location: right
     - *Artificial Intelligence for the Earth Systems (AIES) (ISSN: 2769-7525)*
 
 - **Convener**
-    - **Co-lead for [2025 Taiwan-US Workshop on AI/ML for Satellite Data, Severe Weather, and Tropical Cyclones（CIRA, CSU)](https://rammb2.cira.colostate.edu/weekly/2025-taiwan-us-workshop-on-ai-ml-for-satellite-data-severe-weather-and-tropical-cyclones-at-cira/)**
+    - *Co-lead for [2025 Taiwan-US Workshop on AI/ML for Satellite Data, Severe Weather, and Tropical Cyclones at CIRA, CSU)](https://tw-us-ai-workshop.web.app/).* 
+<!--(https://rammb2.cira.colostate.edu/weekly/2025-taiwan-us-workshop-on-ai-ml-for-satellite-data-severe-weather-and-tropical-cyclones-at-cira/)-->
 
 - **Peer Reviewer**
     - *Artificial Intelligence for the Earth Systems (AIES) (ISSN: 2769-7525)*
@@ -32,6 +33,11 @@ toc-location: right
 
 - **CIRA, CSU**
     - *How I Found My Way into Weather and Climate Research*
+
+### 2024
+
+- **Department of Atmospheric Science, CSU**
+    - *Optimizing Python Codes ([{{< ai github >}}](https://github.com/yuhungjui/demo_Python_Multiprocess))*
 
 ### 2022
 
