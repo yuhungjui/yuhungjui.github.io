@@ -20,19 +20,12 @@ toc-location: right
 ### Peer Reviewer
 
 - *Artificial Intelligence for the Earth Systems (AIES) (ISSN: 2769-7525)*
-
 - *Asia-Pacific Journal of Atmospheric Sciences (ISSN: 1976-7951)*
-
 - *Bulletin of the American Meteorological Society (ISSN: 1520-0477)*
-
 - *Climate Dynamics (ISSN: 0930-7575)*
-
 - *Journal of Atmospheric and Oceanic Technology (ISSN: 1520-0426)*
-
 - *JGR: Atmospheres (ISSN: 2169-8996)*
-
 - *Monthly Weather Review (ISSN: 1520-0493)*
-
 - *Quarterly Journal of the Royal Meteorological Society (ISSN: 1477-870X)*
 
 ---
