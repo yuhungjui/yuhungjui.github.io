@@ -11,12 +11,19 @@ page-layout: article
 
 ---
 
-This research applies machine learning methods to study weather events associated with clouds and storms, with a focus on their three-dimensional structures and frequency.
+This research applies machine learning (ML) methods to study weather events associated with clouds and storms, with a focus on their three-dimensional structures and frequency.
 
-By leveraging environmental variables and high-resolution data, the models capture how sub-scale cloud processes relate to large-scale atmospheric conditions. 
+A central challenge is the scale gap between global climate models (GCMs), which typically run at ~100-km resolution and cannot resolve convection, and convection-permitting models, which explicitly simulate storms but are too computationally expensive for large ensembles or long climate projections. To bridge this gap, ML models are trained on high-resolution simulations coarse-grained to GCM-like grids, learning how subgrid-scale convective cloud properties relate to the large-scale atmospheric environment.
 
-The approach provides new insights into how cloud-related weather events may change under future climate scenarios, advancing understanding at the weather–climate interface.
+Recent results show that pixel-based multilayer perceptron (MLP) models can infer subgrid-scale convective cloud fraction and frequency from coarse-resolution environmental variables alone. Without explicit spatial or temporal information, the models reproduce regional convective hotspots, spatial structures, and the convective diurnal cycle — a long-standing weakness of GCMs — while consistently outperforming linear regression baselines. The models also generalize to unseen years and to pseudo-global-warming (PGW) climate scenarios. Regional generalizability tests and feature-ablation experiments further reveal which environmental conditions the models rely on, linking ML predictions back to physical understanding.
+
+In collaboration with the CSU Department of Mathematics, this work also advances how models are evaluated, combining the Taylor diagram with the Wasserstein distance for more comprehensive model assessment. These efforts are part of a broader NSF-funded collaboration at CIRA that develops AI approaches with novel mathematical components to connect satellite observations of clouds with their associated weather and climate patterns.
+
+Together, these approaches provide new insights into how cloud- and storm-related weather events may change under future climate scenarios, advancing understanding at the weather–climate interface.
+
 
 ## Related Works
 
-**Yu, H.**, L. Ver Hoef, K. L. Rasmussen, & I. Ebert-Uphoff, 2026: Exploring the Ability of Machine Learning to Infer Subgrid-scale Convective Cloud Fraction from Coarse-Resolution Environmental Conditions. *Artificial Intelligence for the Earth Systems (2026)* [{{< ai doi >}}](https://doi.org/10.1175/AIES-D-25-0085.1)
+Dongwei Chen, Emily J. King, **H. Yu**, 2026: Taylor Diagram and Wasserstein Distance for Model Evaluation. (submitted to *Sampling Theory, Signal Processing, and Data Analysis*) [{{< ai arxiv >}}](https://arxiv.org/abs/2609.17950)
+
+**Yu, H.**, L. Ver Hoef, K. L. Rasmussen, I. Ebert-Uphoff, 2026: Exploring the Ability of Machine Learning to Infer Subgrid-scale Convective Cloud Fraction from Coarse-Resolution Environmental Conditions. *Artificial Intelligence for the Earth Systems (2026)* [{{< ai doi >}}](https://doi.org/10.1175/AIES-D-25-0085.1)

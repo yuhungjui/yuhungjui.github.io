@@ -11,23 +11,29 @@ page-layout: article
 
 ---
 
-The frequency of storm-related weather and climate disasters exceeding $1 billion USD in damages has risen markedly, reflecting the growing impact of extreme weather events observed worldwide.
+In the United States, the number of weather and climate disasters exceeding $1 billion (USD) in damages has risen markedly since 1980, reaching a record 28 events in 2023 (NOAA NCEI, 1980–2024). This rise reflects growing exposure and vulnerability as well as changes in the frequency of some extremes. Many of these disasters, from severe convective storms to flash floods, are driven by clouds and storms that develop over kilometers and hours, yet their frequency and intensity are shaped by larger-scale climate variability and long-term change.
 
-The **Weather-and-Climate Interface** research explores how extreme weather events—particularly cloud and storm processes—develop from local atmospheric conditions and how their characteristics evolve in a changing climate.
+The **Weather–Climate Interface** research explores how extreme weather events, particularly cloud and storm processes, develop from local atmospheric conditions and how their characteristics evolve in a changing climate.
 
-By connecting high-resolution weather phenomena with broader climate variability through observations and numerical modeling, this research seeks to advance understanding of the role of clouds at the weather–climate interface and their variability in shaping future climate projections.
+By combining long-term satellite observations, field-campaign data, and convection-permitting regional climate simulations of current and future climates, this research connects storm-scale phenomena with broader climate variability. Recent work characterizes current and future convective storm modes over the contiguous United States using GPM observations and convection-permitting simulations. It also examines the climatology and storm types of heavy rainfall events in different climate regions, including South America and Taiwan, and investigates how diurnal and quasi-2-day variability organizes clouds over convectively active regions. Machine learning increasingly complements these physical approaches by helping bridge the gap between coarse-resolution climate models and storm-scale processes (see [Machine Learning Application to Clouds and Storms](../ml/index.qmd)).
 
-Research topics include
+Research topics include,
 
-- Three-dimensional cloud and storm structures: identification and classification.
-- Mesoscale convective processes and convective life cycles: regional impacts and global patterns.
-- Long-term remote sensing observations and cloud-permitting regional climate model simulations.
+- **Three-dimensional cloud and storm structures:** identification and classification of convective storm modes from satellite observations and models.
+- **Mesoscale convective processes and life cycles:** regional impacts over the United States, Taiwan, and South America, and their global patterns.
+- **Multiscale variability:** diurnal and quasi-2-day cloud variations, and the modulation of mesoscale convective organization by convectively coupled equatorial waves.
+- **Extreme rainfall in complex terrain:** storm types and environmental ingredients associated with heavy rainfall.
+- **Storms in a warming climate:** changes in convective storm modes and populations in convection-permitting regional climate simulations.
 
 
 ## Related Works
 
-Tsujino, S., H.-C. Kuo, **H. Yu**, B.-F. Chen, and K. Tsuboki, 2021: Effects of mid-level moisture and environmental flow on the development of afternoon thunderstorms in Taipei. *Terrestrial Atmospheric and Oceanic Sciences*, **32**, 497. [{{< ai doi >}}](https://doi.org/10.3319/tao.2021.11.17.01)
+Tianqi Zuo, Alison D. Nugent, Angela K. Rowe, Kristen L. Rasmussen, **H. Yu**, 2026: Climatology of Taiwan's Heavy Rainfall Events and Associated Storm Types. (submitted to *Monthly Weather Review*)
 
-**Yu, H.**, K. L. Rasmussen, and H. Kuo, 2021: Quasi‐2‐Day and diurnal cloud variation timescales over convectively active regions. *Journal of Geophysical Research Atmospheres*, **126**. [{{< ai doi >}}](https://doi.org/10.1029/2021jd035426)
+**Yu, H.**, Rasmussen, K. L., Dolan, B. (2025). Current and Future Convective Storm Modes over CONUS from GPM Observations and Convection-Permitting Regional Climate Model Simulations. (reformatting for submission)
 
-**Yu, H.**, R. H. Johnson, P. E. Ciesielski, and H.-C. Kuo, 2018: Observation of Quasi-2-Day Convective Disturbances in the Equatorial Indian Ocean during DYNAMO. *Journal of the Atmospheric Sciences*, **75**, 2867–2888. [{{< ai doi >}}](https://doi.org/10.1175/jas-d-17-0351.1)
+Tsujino, S., H.-C. Kuo, **H. Yu**, B.-F. Chen, K. Tsuboki, 2021: Effects of mid-level moisture and environmental flow on the development of afternoon thunderstorms in Taipei. *Terrestrial Atmospheric and Oceanic Sciences*, **32**, 497. [{{< ai doi >}}](https://doi.org/10.3319/tao.2021.11.17.01)
+
+**Yu, H.**, K. L. Rasmussen, H. Kuo, 2021: Quasi‐2‐Day and diurnal cloud variation timescales over convectively active regions. *Journal of Geophysical Research Atmospheres*, **126**. [{{< ai doi >}}](https://doi.org/10.1029/2021jd035426)
+
+**Yu, H.**, R. H. Johnson, P. E. Ciesielski, H.-C. Kuo, 2018: Observation of Quasi-2-Day Convective Disturbances in the Equatorial Indian Ocean during DYNAMO. *Journal of the Atmospheric Sciences*, **75**, 2867–2888. [{{< ai doi >}}](https://doi.org/10.1175/jas-d-17-0351.1)
