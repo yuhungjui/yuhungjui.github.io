@@ -8,22 +8,32 @@ toc-location: right
 
 ## Services
 
-- **Associate Editor**
-    - *Artificial Intelligence for the Earth Systems (AIES) (ISSN: 2769-7525)*
+### Associate Editor
 
-- **Convener**
-    - *Co-lead for [2025 Taiwan-US Workshop on AI/ML for Satellite Data, Severe Weather, and Tropical Cyclones at CIRA, CSU)](https://tw-us-ai-workshop.web.app/).* 
+- *Artificial Intelligence for the Earth Systems (AIES) (ISSN: 2769-7525)*
+
+### Convener
+
+- *Co-lead for [2025 Taiwan-US Workshop on AI/ML for Satellite Data, Severe Weather, and Tropical Cyclones at CIRA, CSU)](https://tw-us-ai-workshop.web.app/).* 
 <!--(https://rammb2.cira.colostate.edu/weekly/2025-taiwan-us-workshop-on-ai-ml-for-satellite-data-severe-weather-and-tropical-cyclones-at-cira/)-->
 
-- **Peer Reviewer**
-    - *Artificial Intelligence for the Earth Systems (AIES) (ISSN: 2769-7525)*
-    - *Asia-Pacific Journal of Atmospheric Sciences (ISSN: 1976-7951)*
-    - *Bulletin of the American Meteorological Society (ISSN: 1520-0477)*
-    - *Climate Dynamics (ISSN: 0930-7575)*
-    - *Journal of Atmospheric and Oceanic Technology (ISSN: 1520-0426)*
-    - *JGR: Atmospheres (ISSN: 2169-8996)*
-    - *Monthly Weather Review (ISSN: 1520-0493)*
-    - *Quarterly Journal of the Royal Meteorological Society (ISSN: 1477-870X)*
+### Peer Reviewer
+
+- *Artificial Intelligence for the Earth Systems (AIES) (ISSN: 2769-7525)*
+
+- *Asia-Pacific Journal of Atmospheric Sciences (ISSN: 1976-7951)*
+
+- *Bulletin of the American Meteorological Society (ISSN: 1520-0477)*
+
+- *Climate Dynamics (ISSN: 0930-7575)*
+
+- *Journal of Atmospheric and Oceanic Technology (ISSN: 1520-0426)*
+
+- *JGR: Atmospheres (ISSN: 2169-8996)*
+
+- *Monthly Weather Review (ISSN: 1520-0493)*
+
+- *Quarterly Journal of the Royal Meteorological Society (ISSN: 1477-870X)*
 
 ---
 
