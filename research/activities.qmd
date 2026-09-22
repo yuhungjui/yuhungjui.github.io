@@ -37,7 +37,7 @@ toc-location: right
 ### 2024
 
 - **Department of Atmospheric Science, CSU**
-    - *Optimizing Python Codes ([{{< ai github >}}](https://github.com/yuhungjui/demo_Python_Multiprocess))*
+    - *Optimizing Python Codes* ([{{< fa brands github >}}](https://github.com/yuhungjui/demo_Python_Multiprocess))
 
 ### 2022
 
