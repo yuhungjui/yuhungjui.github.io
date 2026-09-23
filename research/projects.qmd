@@ -6,6 +6,7 @@ listing:
   contents:
     - projects/weather_climate/index.qmd
     - projects/ml/index.qmd
+    - projects/radiosonde/index.qmd
   type: grid
   sort: none
   grid-columns: 2

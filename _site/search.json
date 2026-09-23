@@ -397,5 +397,19 @@
     "title": "Weather and Climate Interface",
     "section": "The research topics include=",
     "text": "The research topics include="
+  },
+  {
+    "objectID": "research/projects/radiosonde/index.html",
+    "href": "research/projects/radiosonde/index.html",
+    "title": "Upper-Air Observations and Radiosonde Data Assurance and Quality Control",
+    "section": "",
+    "text": "Radiosondes remain one of the most direct ways to observe the vertical structure of the atmosphere. Accurate profiles of temperature, humidity, and wind are essential for diagnosing convective environments, evaluating numerical models, and building reliable climate records. Yet raw soundings carry instrument- and platform-dependent errors, such as solar radiation biases in temperature and humidity sensors. Rigorous quality assurance and quality control (QA/QC) is therefore a prerequisite for turning field observations into research-grade datasets.\nThis research develops and evaluates QA/QC and correction methods for upper-air observations, from large international field campaigns to new low-cost radiosonde systems designed for high-frequency sampling."
+  },
+  {
+    "objectID": "research/projects/radiosonde/index.html#related-works",
+    "href": "research/projects/radiosonde/index.html#related-works",
+    "title": "Upper-Air Observations and Radiosonde Data Assurance and Quality Control",
+    "section": "Related Works",
+    "text": "Related Works\nKuo, H.-C., T.-S. Yo, H. Yu, S.-H. Su, C.-H. Liu, P.-H. Lin, 2025: Data quality control and calibration for Mini-Radiosonde System “Storm Tracker” in Taiwan. Journal of the Meteorological Society of Japan Ser II (気象集誌 第2輯), 103(5), 573–593. \nHwang, W.-C., P.-H. Lin, H. Yu, 2020: The development of the “Storm Tracker” and its applications for atmospheric high-resolution upper-air observations. Atmospheric Measurement Techniques, 13, 5395–5406. \nYu, H., P. E. Ciesielski, J. Wang, H.-C. Kuo, H. Vömel, R. Dirksen, 2015: Evaluation of humidity correction methods for Vaisala RS92 Tropical Sounding data. Journal of Atmospheric and Oceanic Technology, 32, 397–411. \nCiesielski, P. E., H. Yu, and Coauthors, 2014: Quality-Controlled Upper-Air Sounding Dataset for DYNAMO/CINDY/AMIE: Development and corrections. Journal of Atmospheric and Oceanic Technology, 31, 741–764."
   }
 ]
