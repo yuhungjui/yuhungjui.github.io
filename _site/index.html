@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,16 @@
 
 <title>Hungjui Yu</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -38,10 +44,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5bf7ca59d8cc7f7a8155307016a58e21.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0f6c574da7a363ae419185a03fc457d6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -84,7 +90,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo_1.png" alt="" class="navbar-logo">
+    <img src="./images/logo_1.png" alt="" class="navbar-logo light-content">
+    <img src="./images/logo_1.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Hungjui Yu</span>
@@ -104,6 +111,10 @@ ul.task-list li input[type="checkbox"] {
         <li>
     <a class="dropdown-item" href="./research/projects.html">
  <span class="dropdown-text">Projects</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./research/activities.html">
+ <span class="dropdown-text">Activities</span></a>
   </li>  
     </ul>
   </li>
@@ -148,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
      <span class="about-link-text">GitHub</span>
   </a>
   <a href="https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="ai  ai-google-scholar" aria-label="google-scholar"></i> Google Scholar</span>
+     <span class="about-link-text"><i class="ai  ai-google-scholar" aria-label="google-scholar"></i> Scholar</span>
   </a>
   <a href="https://orcid.org/0000-0002-3796-0967" class="about-link" rel="" target="">
      <span class="about-link-text"><i class="ai  ai-orcid" aria-label="orcid"></i> ORCID</span>
@@ -157,7 +168,7 @@ ul.task-list li input[type="checkbox"] {
      <span class="about-link-text"><i class="ai  ai-researchgate" aria-label="researchgate"></i> ResearchGate</span>
   </a>
   <a href="https://www.webofscience.com/wos/author/record/HNR-9952-2023" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="ai  ai-clarivate" aria-label="clarivate"></i> Web of Science</span>
+     <span class="about-link-text"><i class="ai  ai-clarivate" aria-label="clarivate"></i> WOS</span>
   </a>
   <a href="https://www.linkedin.com/in/yuhungjui" class="about-link" rel="" target="">
     <i class="bi bi-linkedin"></i>
@@ -168,26 +179,27 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><div id="hero-heading">
 <section id="hungjui-yu-尤虹叡" class="level2">
 <h2 data-anchor-id="hungjui-yu-尤虹叡">Hungjui Yu 尤虹叡</h2>
-<p>I am a Atmospheric Scientist based in Fort Collins, Colorado.</p>
+<p><em>Atmospheric Research Scientist based in Fort Collins, Colorado, U.S.</em></p>
+<p>I study the 3D structure of convective storms and how they evolve in various environments using remote-sensing observations, numerical models, and machine learning, with applications to high-impact weather and aviation safety.</p>
+<p>Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making.</p>
 </section>
 <section id="research" class="level2">
 <h2 data-anchor-id="research">Research</h2>
 <ul>
-<li><strong>Cloud &amp; Storm Structure</strong> – Unraveling the 3D features of clouds and storms.<br>
+<li><strong>Cloud &amp; Storm Structure</strong> – Unraveling the 3D structure and internal organization of clouds and storms.<br>
 </li>
-<li><strong>Mesoscale Convective Processes</strong> – Understanding the environmental controls on clouds and storms.<br>
-</li>
-<li><strong>Weather–Climate Interface</strong> – Connecting short-term extremes with long-term climate trends.</li>
-<li><strong>Aviation</strong> – Building tools for cloud-related aviation applications.</li>
+<li><strong>Mesoscale Convective Processes</strong> – Understanding how environmental conditions regulate convective initiation, growth, and decay.</li>
+<li><strong>Weather–Climate Interface</strong> – Linking short-lived extremes with longer-term variability and climate trends.</li>
+<li><strong>Aviation</strong> – Developing tools to detect and quantify cloud-free line of sight.</li>
 </ul>
 <!-- I study the 3D structure of clouds and storms, blending atmospheric science and machine learning to reveal patterns that shape weather and climate, and to create tools that make aviation safer for professionals and the public alike. -->
 </section>
 <section id="tools" class="level2">
 <h2 data-anchor-id="tools">Tools</h2>
 <ul>
-<li><strong>Data Integration and Analysis</strong> – Combining remote-sensing observations and numerical models.</li>
-<li><strong>Machine Learning</strong> – Extracting patterns and mechanisms within clouds and the environments.</li>
-<li><strong>Software Development</strong> – Creating scalable, open-source packages for research and applications.</li>
+<li><strong>Data Integration &amp; Analysis</strong> – Combining satellite, radar, and in situ observations with cloud-permitting models.</li>
+<li><strong>Machine Learning</strong> – Extracting patterns and mechanisms within clouds and their environments to improve scientific understanding.</li>
+<li><strong>Software Development</strong> – Creating scalable, open-source tools and workflows for research and operational applications.</li>
 </ul>
 <!-- My work explores the 3-dimensional structure of clouds and storms, the mesoscale convective and environmental processes that shape them, and their role at the weather–climate interface.
 I integrate environmental data analysis from remote-sensing observations and numerical models with machine learning techniques to uncover patterns and mechanisms within clouds and their environments. I also develop aviation-focused tools to better address and understand storm-related risks. -->
@@ -196,9 +208,12 @@ I integrate environmental data analysis from remote-sensing observations and num
 </div>
 
 <hr>
-<p><strong><em>“The first step in solving any problem is recognizing there is one.”</em></strong></p>
-<p>I integrate <strong>remote-sensing observations</strong>, <strong>numerical modeling</strong>, and <strong>machine learning</strong> to reveal the processes that shape storms in a changing environment.</p>
-<p>My work advances <strong>scientific understanding</strong> while improving <strong>operational safety</strong>. Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making for both professionals and the public in a changing atmosphere.</p>
+<blockquote class="blockquote">
+<p><em>“The first step in solving any problem is recognizing there is one.”</em></p>
+</blockquote>
+<!-- I integrate **remote-sensing observations**, **numerical modeling**, and **machine learning** to reveal the processes that shape storms in a changing environment.
+
+My work advances **scientific understanding** while improving **operational safety**. Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making for both professionals and the public in a changing atmosphere. -->
 <!-- - 🔬 Research in: Clouds and Convective storms, Remote Sensing, Machine Learning
 - 📍 Based in Fort Collins, CO
 - 🧠 Passionate about data, code, and clean communication. -->
@@ -251,13 +266,14 @@ I integrate environmental data analysis from remote-sensing observations and num
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

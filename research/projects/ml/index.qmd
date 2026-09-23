@@ -7,7 +7,7 @@ page-layout: article
 
 ---
 
-![Credits: Image courtesy of Caltech and Tapio Schneider. Adapted from [Link](https://news.mit.edu/2018/new-climate-modeling-alliance-clima-1212).](featured.png)
+![Credits: Image courtesy of Caltech and Tapio Schneider ([link](https://news.mit.edu/2018/new-climate-modeling-alliance-clima-1212).)](featured.png)
 
 ---
 
@@ -21,6 +21,7 @@ In collaboration with the CSU Department of Mathematics, this work also advances
 
 Together, these approaches provide new insights into how cloud- and storm-related weather events may change under future climate scenarios, advancing understanding at the weather–climate interface.
 
+---
 
 ## Related Works
 

@@ -7,7 +7,7 @@ page-layout: article
 
 ---
 
-![NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2025). [Link](https://www.ncei.noaa.gov/access/billions/).](featured.png)
+![NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2025) ([link](https://www.ncei.noaa.gov/access/billions/)).](featured.png)
 
 ---
 
@@ -25,6 +25,7 @@ Research topics include,
 - **Extreme rainfall in complex terrain:** storm types and environmental ingredients associated with heavy rainfall.
 - **Storms in a warming climate:** changes in convective storm modes and populations in convection-permitting regional climate simulations.
 
+---
 
 ## Related Works
 
