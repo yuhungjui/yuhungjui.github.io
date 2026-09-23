@@ -1,23 +1,32 @@
-/* css styles */
+/* ==========================================================================
+   Site styles (loaded on top of the sandstone theme via _quarto.yml)
+   ========================================================================== */
 
-/* body {
-  font-family: 'Helvetica Neue', sans-serif;
-} */
-
-/* h1, h2 {
-  font-weight: 600;
-  color: #222;
-} */
-
-/* figure figcaption {
-    font-size: 0.8em;
-    line-height: 1.2em;
-    color: #555;
-    margin-top: 0.3em;
-    text-align: center;
-} */
-
+/* --- Figures ------------------------------------------------------------ */
 
 figcaption {
   text-align: center;
+}
+
+/* --- Listing cards (research/projects.qmd) ------------------------------ */
+
+.quarto-grid-item {
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.quarto-grid-link:hover .quarto-grid-item {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+  transform: translateY(-2px);
+}
+
+.quarto-grid-item .listing-title {
+  font-weight: 700;
+  font-size: 1.15rem;
+  line-height: 1.35;
+  margin-bottom: 0.5rem;
+}
+
+.quarto-grid-item .listing-description {
+  font-size: 0.92rem;
+  color: #555;
 }

@@ -8,7 +8,7 @@ author-meta: "Dr. Hungjui Yu"
 website:
   title: "Hungjui Yu"
   site-url: "https://yuhungjui.github.io"
-  favicon: images/logo_1.png 
+  favicon: images/logo_1.png
   
   navbar:
     logo: images/logo_1.png
@@ -31,7 +31,7 @@ website:
     # type: textbox
 
   page-footer:
-    center: © 2025 Hungjui Yu · Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=70px}](https://quarto.org/) 
+    center: © 2026 Hungjui Yu · Powered by [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=70px}](https://quarto.org/) 
 
 format:
   html:

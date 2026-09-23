@@ -8,15 +8,16 @@ about:
   template: trestles
   image: images/profile.jpg
   image-title: ""
+  image-alt: "Portrait of Hungjui Yu"
   links:
     - icon: envelope
       text: E-mail
-      href: mailto:hungjui@rams.colostate.edu
+      href: mailto:hungjui@colostate.edu
     - icon: github
       text: GitHub
       href: https://github.com/yuhungjui
     - text: "{{< ai google-scholar >}} Scholar"
-      href: https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ
+      href: https://scholar.google.com/citations?user=DHXgZyMAAAAJ
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-3796-0967
     - text: "{{< ai researchgate >}} ResearchGate"
@@ -34,7 +35,7 @@ about:
 
 ## Hungjui Yu 尤虹叡
 
-*Atmospheric Research Scientist based in Fort Collins, Colorado, U.S.*
+*Research Scientist at CIRA, Colorado State University, Fort Collins, CO*
 
 I study the 3D structure of convective storms and how they evolve in various environments using remote-sensing observations, numerical models, and machine learning, with applications to high-impact weather and aviation safety.
 
@@ -47,7 +48,7 @@ Through rigorous science and scalable software tools, I transform complex atmosp
 - **Weather–Climate Interface** – Linking short-lived extremes with longer-term variability and climate trends.
 - **Aviation** – Developing tools to detect and quantify cloud-free line of sight.
 
-<!-- I study the 3D structure of clouds and storms, blending atmospheric science and machine learning to reveal patterns that shape weather and climate, and to create tools that make aviation safer for professionals and the public alike. -->
+[See all projects →](research/projects.qmd)
 
 ## Tools
 
@@ -55,20 +56,8 @@ Through rigorous science and scalable software tools, I transform complex atmosp
 - **Machine Learning** – Extracting patterns and mechanisms within clouds and their environments to improve scientific understanding.
 - **Software Development** – Creating scalable, open-source tools and workflows for research and operational applications.
 
-<!-- My work explores the 3-dimensional structure of clouds and storms, the mesoscale convective and environmental processes that shape them, and their role at the weather–climate interface.
-
-I integrate environmental data analysis from remote-sensing observations and numerical models with machine learning techniques to uncover patterns and mechanisms within clouds and their environments. I also develop aviation-focused tools to better address and understand storm-related risks. -->
-
 :::
 
----
-
+<!---
 > *"The first step in solving any problem is recognizing there is one."*
-
-<!-- I integrate **remote-sensing observations**, **numerical modeling**, and **machine learning** to reveal the processes that shape storms in a changing environment.
-
-My work advances **scientific understanding** while improving **operational safety**. Through rigorous science and scalable software tools, I transform complex atmospheric insights into practical solutions that strengthen safety, resilience, and decision-making for both professionals and the public in a changing atmosphere. -->
-
-<!-- - 🔬 Research in: Clouds and Convective storms, Remote Sensing, Machine Learning
-- 📍 Based in Fort Collins, CO
-- 🧠 Passionate about data, code, and clean communication. -->
+--->
