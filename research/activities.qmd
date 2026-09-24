@@ -14,7 +14,7 @@ toc-location: right
 
 ### Convener
 
-- *Co-lead for [2025 Taiwan-US Workshop on AI/ML for Satellite Data, Severe Weather, and Tropical Cyclones at CIRA, CSU)](https://tw-us-ai-workshop.web.app/).* 
+- *Co-lead for [2025 Taiwan-US Workshop on AI/ML for Satellite Data, Severe Weather, and Tropical Cyclones at CIRA, CSU](https://tw-us-ai-workshop.web.app/).* 
 <!--(https://rammb2.cira.colostate.edu/weekly/2025-taiwan-us-workshop-on-ai-ml-for-satellite-data-severe-weather-and-tropical-cyclones-at-cira/)-->
 
 ### Peer Reviewer

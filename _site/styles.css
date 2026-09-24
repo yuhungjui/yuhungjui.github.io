@@ -30,3 +30,47 @@ figcaption {
   font-size: 0.92rem;
   color: #555;
 }
+
+/* --- Homepage hero (index.qmd) ------------------------------------------ */
+
+/* The name is the first `##` in #hero-heading (a `#` would be promoted to the
+   title block under the photo), so size it above the section headings */
+#hero-heading > section:first-child > h2 {
+  font-size: 2rem;
+}
+
+div.quarto-about-trestles .about-contents h2 {
+  font-size: 1.4rem;
+}
+
+div.quarto-about-trestles .about-link .ai {
+  font-size: 1.1em;
+  vertical-align: -0.1em;
+}
+
+/* Below lg, trestles stacks full-width buttons under a tall photo; keep a
+   compact row and a square crop so the name and intro stay near the top */
+@media (max-width: 991.98px) {
+  div.quarto-about-trestles .about-entity {
+    padding-right: 0;
+  }
+
+  div.quarto-about-trestles .about-entity .about-image {
+    max-width: 14em;
+    aspect-ratio: 1 / 1;
+    object-position: 50% 20%;
+  }
+
+  div.quarto-about-trestles .about-entity .about-links {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5em;
+    padding-bottom: 1em;
+  }
+
+  div.quarto-about-trestles .about-entity .about-link {
+    font-size: 0.9em;
+    padding: 0.3em 0.6em;
+  }
+}

@@ -8,7 +8,7 @@ toc-location: right
 
 ---
 
-[{{< ai google-scholar >}} Google Scholar](https://scholar.google.com.tw/citations?user=DHXgZyMAAAAJ)
+[{{< ai google-scholar >}} Google Scholar](https://scholar.google.com/citations?user=DHXgZyMAAAAJ)
 
 [{{< ai cv >}} Full CV](/cv/cv.qmd)
 

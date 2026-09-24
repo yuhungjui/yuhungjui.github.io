@@ -15,7 +15,7 @@ Radiosondes remain one of the most direct ways to observe the vertical structure
 
 This research develops and evaluates QA/QC and correction methods for upper-air observations, from large international field campaigns to new low-cost radiosonde systems designed for high-frequency sampling.
 
-![Pyrimid to research quality data.](radiosonde_qaqc.png){fig-alt="Radiosonde Data QA/QC schematic."}
+![Pyramid to research quality data.](radiosonde_qaqc.png){fig-alt="Radiosonde Data QA/QC schematic."}
 
 ---
 
