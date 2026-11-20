@@ -16,6 +16,8 @@ toc-location: right
 
 ## Journal Articles
 
+1. Martina Bramberger, Wiebke Deierling, Hyeyum Hailey Shin, Greg Meymaris, **Hungjui Yu**, Kristen Rasmussen, 2026: More frequent, not stronger: convective, jet-stream and mountain-wave turbulence over North America since 1980. (submitted to *Nature Geoscience*)
+
 1. Tianqi Zuo, Alison D. Nugent, Angela K. Rowe, Kristen L. Rasmussen, **H. Yu**, 2026: Climatology of Taiwan's Heavy Rainfall Events and Associated Storm Types. (submitted to *Monthly Weather Review*)
 
 1. Dongwei Chen, Emily J. King, **H. Yu**, 2026: Taylor Diagram and Wasserstein Distance for Model Evaluation. (submitted to *Sampling Theory, Signal Processing, and Data Analysis*) [{{< ai arxiv >}}](https://arxiv.org/abs/2609.17950)
